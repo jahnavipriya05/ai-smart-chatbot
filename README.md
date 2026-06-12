@@ -66,11 +66,11 @@ AI-Smart-Chatbot/
 
 ### Home Page
 
-![Home Page](screenshots/demo.png)
+![Home Page](images/demo.png)
 
 ### Chat Interface
 
-![Chat Demo](screenshots/chat.png)
+![Chat Demo](images/chat.png)
 
 ---
 
