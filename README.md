@@ -79,7 +79,7 @@ AI-Smart-Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-jahnavipriya05/AI-Smart-Chatbot.git
+git clone https://github.com/your-jahnavipriya05/ai-smart-chatbot.git
 cd AI-Smart-Chatbot
 ```
 
